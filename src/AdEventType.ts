@@ -1,4 +1,4 @@
-export const AdEventType = {
+export default AdEventType = {
     CLICKED: 'clicked',
     CLOSED: 'closed',
     ERROR: 'error',
