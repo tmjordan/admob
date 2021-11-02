@@ -1,4 +1,4 @@
-export default AdEventType = {
+export default {
     CLICKED: 'clicked',
     CLOSED: 'closed',
     ERROR: 'error',
