@@ -1,8 +1,9 @@
 export default {
     CLICKED: 'clicked',
-    CLOSED: 'closed',
-    ERROR: 'error',
+    CLOSED: 'adDismissed',
+    ERROR: 'adFailedToLoad',
     LEFT_APPLICATION: 'left_application',
-    LOADED: 'loaded',
-    OPENED: 'opened',
+    LOADED: 'adLoaded',
+    OPENED: 'adPresented',
+    REWARDED: 'rewarded',
 };
